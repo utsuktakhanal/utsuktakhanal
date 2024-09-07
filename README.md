@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utsuktakhanal
-- 👀 I’m interested in software developing.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning basic programming language.
 
 <!---
